@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        // My name is Hiah Shu Rong
+      
         // This is from Hock Yu
     }
 }
