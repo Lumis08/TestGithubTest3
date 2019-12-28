@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         // My name is Hiah Shu Rong
       
         // This is from Hock Yu
-        // This is Hock Yu again Lol
+        // This is Hock Yu again Lol XD
+
     }
 }
