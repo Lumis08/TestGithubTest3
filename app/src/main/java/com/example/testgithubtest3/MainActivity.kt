@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(this, HYTest::class.java)
             startActivity(intent)
         }
+
+        // My name is Hiah Shu Rong
     }
 }
