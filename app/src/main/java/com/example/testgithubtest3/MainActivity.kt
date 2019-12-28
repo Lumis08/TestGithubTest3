@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.testgithubtest3.ShuRongTest.ShuRongTest
+import com.example.testgithubtest3.HYTest.HYTest
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -14,6 +15,11 @@ class MainActivity : AppCompatActivity() {
 
         textViewSelc2.setOnClickListener {
             intent = Intent(this, ShuRongTest::class.java)
+            startActivity(intent)
+        }
+
+        textViewSelc1.setOnClickListener {
+            intent = Intent(this, HYTest::class.java)
             startActivity(intent)
         }
     }
