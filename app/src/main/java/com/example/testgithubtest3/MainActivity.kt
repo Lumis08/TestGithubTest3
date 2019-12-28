@@ -24,5 +24,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // My name is Hiah Shu Rong
+      
+        // This is from Hock Yu
     }
 }
